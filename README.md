@@ -6,7 +6,7 @@ I’m a software engineer, and building software is both my profession and my ho
   I mostly build frontends with
   <img alt="TypeScript (React, Next.js)" src="https://img.shields.io/badge/TypeScript_(React,_Next.js)-161b22?style=flat&amp;logo=typescript&amp;logoColor=3178C6">.
   <br>
-  I mostly write backend services and APIs using
+  I write my APIs using
   <img alt="Go" src="https://img.shields.io/badge/Go-161b22?style=flat&amp;logo=go&amp;logoColor=00ADD8">
   <img alt="Python (FastAPI)" src="https://img.shields.io/badge/Python_(FastAPI)-161b22?style=flat&amp;logo=python&amp;logoColor=FFD43B">
   <img alt="TypeScript (Express)" src="https://img.shields.io/badge/TypeScript_(Express)-161b22?style=flat&amp;logo=typescript&amp;logoColor=3178C6">.
