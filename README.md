@@ -50,7 +50,3 @@ I’m a software engineer, and building software is both my profession and my ho
   I built <a href="https://termhq.dev/">TermHQ</a> to manage my AI CLI agents, and I use it in my own development workflow.
 </p>
 
-<p>
-  <a href="https://github.com/gAlexander77/termhq"><img alt="TermHQ stars" src="https://img.shields.io/github/stars/gAlexander77/termhq.svg?style=flat&amp;label=TermHQ%20%E2%98%85&amp;labelColor=161b22&amp;color=30363d"></a>
-  <a href="https://github.com/gAlexander77/racepulse-release"><img alt="RacePulse stars" src="https://img.shields.io/github/stars/gAlexander77/racepulse-release?style=flat&amp;label=RacePulse%20%E2%98%85&amp;labelColor=161b22&amp;color=30363d"></a>
-</p>
