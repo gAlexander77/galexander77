@@ -25,11 +25,11 @@ I’m a software engineer, and building software is both my profession and my ho
 ### AI Experience
 
 <p>
-  AI tools I have used professionally and in my own projects.
+  AI coding tools I have used professionally and in my own projects:
   <br>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-161b22?style=flat&amp;logo=claude&amp;logoColor=D97757">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-161b22?style=flat">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-161b22?style=flat&amp;logo=cursor&amp;logoColor=white">
   <br>
-  I built <a href="https://termhq.dev/">TermHQ</a> to manage my AI CLI agents, and I use it in my own development workflow.
+  I built <a href="https://termhq.dev/">TermHQ</a> to manage AI coding tools that run in the terminal.
 </p>
