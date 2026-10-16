@@ -12,8 +12,7 @@ I’m a software engineer, and building software is both my profession and my ho
   <br>
   Backend:
   <img alt="Go" src="https://img.shields.io/badge/Go-161b22?style=flat&amp;logo=go&amp;logoColor=00ADD8">
-  <img alt="Python (FastAPI)" src="https://img.shields.io/badge/Python_(FastAPI)-161b22?style=flat&amp;logo=python&amp;logoColor=FFD43B">
-  <img alt="Python (AWS Lambda)" src="https://img.shields.io/badge/Python_(AWS_Lambda)-161b22?style=flat&amp;logo=python&amp;logoColor=FFD43B">
+  <img alt="Python (FastAPI, AWS Lambda)" src="https://img.shields.io/badge/Python_(FastAPI,_AWS_Lambda)-161b22?style=flat&amp;logo=python&amp;logoColor=FFD43B">
   <img alt="TypeScript (Express)" src="https://img.shields.io/badge/TypeScript_(Express)-161b22?style=flat&amp;logo=typescript&amp;logoColor=3178C6">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-161b22?style=flat&amp;logo=dotnet&amp;logoColor=B9A1FF">
   <img alt="PHP (Laravel)" src="https://img.shields.io/badge/PHP_(Laravel)-161b22?style=flat&amp;logo=php&amp;logoColor=B0B3D6">
